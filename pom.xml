@@ -21,7 +21,7 @@
             <jstl.version>1.2</jstl.version>
             <springsecurity.version>3.2.8.RELEASE</springsecurity.version>
             <spring.data>1.11.5.RELEASE</spring.data>
-            <postgresql.version>9.4-1206-jdbc42</postgresql.version>
+            <postgresql.version>42.3.7</postgresql.version>
             <hibernate.version>4.3.6.Final</hibernate.version>
             <log4j.version>1.2.17</log4j.version>
             <sitemesh.version>2.4.2</sitemesh.version>
